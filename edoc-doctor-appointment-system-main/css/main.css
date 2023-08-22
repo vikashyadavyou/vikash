@@ -7,7 +7,6 @@
 }
 
 body{
-    
     margin: 0;
     padding: 0;
     border-spacing: 0;
@@ -321,9 +320,6 @@ input[type=search]:focus {
 }
 
 
-.menu {
-  background-image: url(../img/appointment_page.jpg);
-}
 
 .menu-btn{
   padding:6px;
@@ -567,7 +563,6 @@ input[type=search]:focus {
   line-height: 1.5;
   box-shadow: 0 3px 5px 0 rgba(95, 95, 97, 0.068);
 }
-
 
 
 .h1-search{
