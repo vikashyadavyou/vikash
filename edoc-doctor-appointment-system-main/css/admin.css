@@ -11,9 +11,11 @@
     height: 100vh;
     box-shadow: 0 0px 0px 2px rgba(240, 240, 240, 0.3);
 }
+
 .dash-body{
     width: 79%;
     height: 100vh;
+    background-image: url(../img/appointment_page.jpg);
 }
 
 .menu-container{
