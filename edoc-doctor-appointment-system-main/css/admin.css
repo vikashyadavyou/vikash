@@ -13,6 +13,7 @@
 }
 
 .dash-body{
+    margin-top:15px;
     width: 79%;
     height: 100vh;
     background-image: url(../img/appointment_page.jpg);
